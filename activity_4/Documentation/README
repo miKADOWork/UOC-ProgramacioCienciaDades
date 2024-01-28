@@ -1,0 +1,20 @@
+Aquest codi es un treball per l'assignatura de programació
+per la ciència de dades del master en ciència de dades de la UOC.
+
+En el mateix nivell (mateix directori) cal afegir la carpeta de data
+amb els tres fitxers csv comprimits per tal que el codi funicioni correctament.
+
+Per executar el codi cal executar la següent instrucció a la terminal (en el 
+mateix nivell):
+
+	- python3 main.py
+
+Tenim els següents fitxers:
+	- PandasCustom.py
+	- main.py
+	- LICIENCE: la llicencia MIT del codi
+	- Requeriments: Els moduls neceesaris per executar el codi
+	- EX 5 - Informe: Mostra la resposta al exercici 5
+
+autor: Fernando Alaejos Garcia falaejos@uoc.edu
+

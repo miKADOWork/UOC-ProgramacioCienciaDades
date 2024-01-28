@@ -1,0 +1,21 @@
+Requerirem una màquina amb python3 (que és la versió amb la que he treballat).
+
+Les llibreries necesaries per executar aquest codi (pel main) són les següents:
+	- pandas
+	- csv
+	- math
+	- time 
+	- PandasCustom (*)
+	- numpy
+	- matplotlib.pyplot
+	- seaborn
+
+(*) Per ejecutar el módul PandasCustom, requerim:
+	- os
+	- zipfile as zf
+	- glob
+	- re
+	- pandas as pd
+	- time
+	- csv
+	- head from request.
